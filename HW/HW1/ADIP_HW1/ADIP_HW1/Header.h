@@ -1,0 +1,10 @@
+unsigned char intensity_limit(unsigned char intensity, int fix);
+void hw1_1_2a();
+void hw1_1_2b();
+void hw1_1_2c();
+void hw1_1_2d_horizontal();
+void hw1_1_2d_vertical();
+void hw1_1_2e();
+void hw1_1_3a();
+void hw1_1_3b();
+void hw1_2b();
